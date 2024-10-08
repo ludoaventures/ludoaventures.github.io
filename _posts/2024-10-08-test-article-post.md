@@ -4,7 +4,6 @@ author: cotes
 date: 2024-10-08 00:00:00 +0800
 categories: [Test, Article]
 tags: [test]
-pin: true
 ---
 
 Petit texte d'introduction
