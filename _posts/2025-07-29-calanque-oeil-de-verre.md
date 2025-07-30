@@ -1,8 +1,8 @@
 ---
-title: Calanques du pas de l'oeil
-description: Randonnée "++" dans la calanques du pas de l'oeil en passant par la corniche du CAF
+title: Calanques de l'oeil de verre
+description: Randonnée jusqu'à la Calanque de l'oeil de verre par la corniche du CAF
 date: 2025-07-29 11:33:00 +0800
-categories: [Randonnée, Demo]
+categories: [Randonnée]
 tags: [calanques]
 pin: true
 math: true
@@ -43,8 +43,8 @@ mermaid: true
 
 ### 3. Socle de la Candelle
 - Description : En suivant le GR on se dirige vers le socle de la Candelle sur lequel repose l'arête. Avant d'arriver au socle, deux option:
-- Voie normale (sur le GPX): un premier chemin monte au dessus de la falaise à gauche et mène au col de la Candelle
-- Variante (pas suivie sur le GPX): un sentier plus loin monte raide mais directement jusqu'à la fissure du Candelon
+  - Voie normale (sur le GPX): un premier chemin monte au dessus de la falaise à gauche et mène au col de la Candelle
+  - Variante (pas suivie sur le GPX): un sentier plus loin monte raide mais directement jusqu'à la fissure du Candelon
 
 ### 4. Col de la Candelle
 - Description : Après la montée suivre le chemin jusqu'au col de la Candelle. Un petit peu avant un sentier descend dans la pente et rentre dans le goulet au pied de l'arête. Les traces de pas sont évidentes et à un moment on retrouve un balisage noir. Ce dernier mène à un sentier exposé qui relie le haut du goulet par un pas exposé et glissant mais bien équipé avec des chaines
@@ -100,4 +100,4 @@ Remarque: L'accès à la calanque de sugiton est restreint l'été et il est né
 - [Ouverture des massifs selon le risque incendie](https://www.risque-prevention-incendie.fr/bouches-du-rhone)
 - [Lien de réservation Calanques de Sugiton](https://www.calanques-parcnational.fr/fr/des-decouvertes/preparer-sa-visite/reservation-sugiton?gad_source=1&gad_campaignid=17669964230&gclid=EAIaIQobChMIv9_Kl__kjgMVX8p5BB0m6zJkEAAYASAAEgKoP_D_BwE)
 - [Topo "arête de Marseille"](https://www.camptocamp.org/routes/55467/fr/la-grande-candelle-arete-de-marseille)
-
+- [Topo "Corniches Paretti"](https://www.camptocamp.org/routes/417745/fr/calanques-devenson-paretti-corniche-paretti)
