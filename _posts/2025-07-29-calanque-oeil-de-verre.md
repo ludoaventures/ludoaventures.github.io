@@ -35,42 +35,42 @@ mermaid: true
 
 ## 📌 Étapes du Parcours
 
-### 1. Départ – Parking de Luminy
+#### 1. Départ – Parking de Luminy
 - Description : Se garer entre l'Ecole des beaux arts et Kedge. Suivre les panneaux jaunes vers le col de Sugiton
 
-### 2. Col de Sugiton
+#### 2. Col de Sugiton
 - Description : Une fois arrivé au col de sugiton, prendre le GR (marque rouges et blanches) sur la gauche en suivant le sentier
 
-### 3. Socle de la Candelle
+#### 3. Socle de la Candelle
 - Description : En suivant le GR on se dirige vers le socle de la Candelle sur lequel repose l'arête. Avant d'arriver au socle, deux option:
   - Voie normale (sur le GPX): un premier chemin monte au dessus de la falaise à gauche et mène au col de la Candelle
   - Variante (pas suivie sur le GPX): un sentier plus loin monte raide mais directement jusqu'à la fissure du Candelon
 
-### 4. Col de la Candelle
+#### 4. Col de la Candelle
 - Description : Après la montée suivre le chemin jusqu'au col de la Candelle. Un petit peu avant un sentier descend dans la pente et rentre dans le goulet au pied de l'arête. Les traces de pas sont évidentes et à un moment on retrouve un balisage noir. Ce dernier mène à un sentier exposé qui relie le haut du goulet par un pas exposé et glissant mais bien équipé avec des chaines
 
 
-### 4 (variante). Fissure du Candelon
+#### 4 (variante). Fissure du Candelon
 - Description : En arrivant du bas remonter la fissure qui est encaissée et très raide.
 
 
-### 5. Candelon
+#### 5. Candelon
 - Description : Après le pas équipé de chaînes, descendre dans la fissure (ne pas essayer de remonter) et prendre un sentier peu évident mais balisé qui part sur la gauche pour contourner le Candellon par le bas.
 
 
-### 6. Corniche du CAF falaise Sud de la Candelle
+#### 6. Corniche du CAF falaise Sud de la Candelle
 - Description : Arrivé sur ce "plateau", vous retrouverez le départ de "L'arête de Marseille" grande voie mythique qui remonte l'arête par le pas de Rebuffat. Si vous ne grimpez pas, suivez les balisages "++" noirs qui serpentent sur le plateau.
 
 
-### 7. Succession de pas
+#### 7. Succession de pas
 - Description : Depuis le haut du socle de la Candelle, descendre le sentier "++" qui enchaîne une succession de pas exposés mais pas difficile jusqu'à rejoindre le haut de la Calanque de l'oeil de verre.
 
 
-### 8. Calanque de l'oeil de verre
+#### 8. Calanque de l'oeil de verre
 - Description : La descente jusqu'à la Calanque se fait par le Pas de l'oeil de verre, patoné et exposé mais très bien équipé. Attention à ne pas poursuivre trop loin sur le sentier des Corniches Paretti (très joli mais beaucoup plus long jusqu'au Cirque du Devenson).
 
 
-### 9. Retour
+#### 9. Retour
 - Description : Le retour est évident en suivant le sentier qui longe la mer et remonte jusqu'au Col de Sugiton. Très beau Panorama sur la Calanque de Sugiton et le Torpilleur.
   
 ---
