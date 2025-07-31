@@ -7,7 +7,6 @@ tags: [calanques]
 pin: true
 math: true
 mermaid: true
-image: ![calanque-oeil-de-verre](https://github.com/user-attachments/assets/5a1cc23b-0fec-4e79-829d-16f8e1260944)
 
 ---
 
