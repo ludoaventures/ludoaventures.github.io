@@ -7,6 +7,8 @@ tags: [calanques]
 pin: true
 math: true
 mermaid: true
+image:
+  path: /commons/devices-mockup.png
 ---
 
 ## 📍 Lieu & Informations Générales
