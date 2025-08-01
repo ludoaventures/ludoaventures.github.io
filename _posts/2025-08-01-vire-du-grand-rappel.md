@@ -1,6 +1,6 @@
 ---
 title: Vire du grand rappel V3
-description: Rando rrappel de la "Vire du Grand Rappel" en boucle depuis Cassis
+description: Rando rappel de la "Vire du Grand Rappel" en boucle depuis Cassis
 date: 2025-08-31 11:33:00 +0800
 categories: [Randonnée, Rappel, Rando-rappel]
 tags: [calanques]
