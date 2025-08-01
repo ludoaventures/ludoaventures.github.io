@@ -15,16 +15,16 @@ mermaid: true
 - **Lieu de départ :** Sanilhac-Sagriès
 - **Coordonnées GPS :** 43.953564, 4.424996
 - **Date :** 27/07/2025
-- **Durée estimée :** 6h (avec pause et "escalade")
+- **Durée estimée :** 1h aller 1h retour
 - **Distance :** 5,72 km
 - **Dénivelé :** +190 m / -190 m
-- **Niveau :** Balade en famille
+- **Niveau :** Balade
 - **Type de parcours :** Boucle
 - **Accessible en transports en commun :** Non
 - **Conditions météo :** Grand soleil
 
 
-🚗 **[🧭 Se rendre au départ](https://www.google.com/maps/dir/?api=1&destination=43.953564,4.424996)**
+🚗 **[Se rendre au départ](https://www.google.com/maps/dir/?api=1&destination=43.953564,4.424996)**
 
 ---
 
@@ -67,7 +67,7 @@ Rando très simple idéale pour aller rincer sa gueule de bois dans le Gardon. L
 
 ---
 
-## 🧭 Conseils & Équipement
+## Conseils & Équipement
 
 - Chaussures recommandées : Mieux en chaussures fermées mais peut se faire avec tout type
 - Ne pas oublier le maillot
@@ -78,4 +78,4 @@ Rando très simple idéale pour aller rincer sa gueule de bois dans le Gardon. L
 
 ## 🔗 Ressources utiles
 
-- [Topo Viso rando](https://www.visorando.com/randonnee-la-chapelle-et-grotte-de-la-baume-a-part/)
+- [Topo Viso rando](https://www.visorando.com/randonnee-la-chapelle-et-grotte-de-la-baume-a-part)
