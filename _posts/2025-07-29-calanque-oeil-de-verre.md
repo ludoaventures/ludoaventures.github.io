@@ -34,6 +34,9 @@ mermaid: true
 
 ---
 
+> **Attention :** Renseignez vous sur l'ouverture des massifs en fonction des prévisions de risque incendies sur: [Carte du risque incendie](https://www.risque-prevention-incendie.fr/13)
+{: .prompt-danger }
+
 ## 📌 Étapes du Parcours
 
 #### 1. Départ – Parking de Luminy
