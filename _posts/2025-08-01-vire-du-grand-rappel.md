@@ -3,7 +3,7 @@ title: Vire du grand rappel V3
 description: Rando rappel de la "Vire du Grand Rappel" en boucle depuis Cassis
 date: 2025-08-01 11:33:00 +0800
 categories: [Randonnée, Rappel, Rando-rappel]
-tags: [calanques]
+tags: [Calanques]
 pin: true
 math: true
 mermaid: true
@@ -34,8 +34,7 @@ mermaid: true
 <iframe src="https://www.komoot.com/fr-fr/tour/2453543261/embed?share_token=aH2w1gKDSvsm2ni7cS521afNkcg2c6yJqX8UngjKIiWGxlP2R8&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
 
 ---
-
-> **Attention :** 
+> **Attention :** Renseignez vous sur l'ouverture des massifs en fonction des prévisions de risque incendies sur: [Carte du risque incendie](https://www.risque-prevention-incendie.fr/13)
 {: .prompt-danger }
 
 ## 📌 Étapes du Parcours
