@@ -1,7 +1,7 @@
 ---
 title: Via ferrata de Collias
 description: Randonnée facile au bord du Gardon et Via Ferrata de Collias
-date: 2025-08-03 11:33:00 +0800
+date: 2025-08-02 11:33:00 +0800
 categories: [Randonnee, Balade, Via Ferrata]
 tags: [Gard]
 pin: true
@@ -14,7 +14,7 @@ mermaid: true
 
 - **Lieu de départ :** Collias
 - **Coordonnées GPS :** 43.953627, 4.480244
-- **Date :** 03/08/2025
+- **Date :** 02/08/2025
 - **Durée estimée :** 2h de rando, 2h de via sans se presser
 - **Distance :** 10 km
 - **Dénivelé :** +470 m / -470 m
@@ -33,6 +33,9 @@ mermaid: true
 <iframe src="https://www.komoot.com/fr-fr/tour/2461187878/embed?share_token=apa2OP5AQQ3zj8YdsHIe9Pg5pIju7OWdQn3iIfBJdLqmV94Z0p&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
 
 ---
+
+> An example showing the `warning` type prompt.
+{: .prompt-warning }
 
 ## 📌 Étapes du Parcours
 
