@@ -8,7 +8,7 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: /vire-grand-rappel.png
+  path: /_posts/vire-grand-rappel.png
   alt: image alternative text
 
 ---
