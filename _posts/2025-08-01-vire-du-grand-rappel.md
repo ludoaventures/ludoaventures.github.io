@@ -7,9 +7,7 @@ tags: [Calanques]
 pin: true
 math: true
 mermaid: true
-image:
-  path: _posts/vire-grand-rappel.png
-  alt: image alternative text
+image: _posts/vire-grand-rappel.png
 
 ---
 
