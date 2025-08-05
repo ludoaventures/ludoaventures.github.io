@@ -2,7 +2,7 @@
 title: Via ferrata de Collias
 description: Randonnée facile au bord du Gardon et Via Ferrata de Collias
 date: 2025-08-02 11:33:00 +0800
-categories: [Randonnee, Balade, Via Ferrata]
+categories: [Randonnée, Balade, Via Ferrata]
 tags: [Gard]
 pin: true
 math: true
@@ -22,6 +22,7 @@ mermaid: true
 - **Type de parcours :** Boucle
 - **Accessible en transports en commun :** Non
 - **Conditions météo :** Grand soleil
+- **Participants**: Lise, Anouk et Pénélope
 
 
 🚗 **[Se rendre au départ](https://www.google.com/maps/dir/?api=1&destination=43.953627,4.480244)**
@@ -34,8 +35,8 @@ mermaid: true
 
 ---
 
-> An example showing the `warning` type prompt.
-{: .prompt-warning }
+> **Attention :** Renseignez vous sur l'ouverture des massifs en fonction des prévisions de risque incendies sur: [Carte du risque incendie](https://www.risque-prevention-incendie.fr/30)
+{: .prompt-danger }
 
 ## 📌 Étapes du Parcours
 
