@@ -21,7 +21,8 @@ mermaid: true
 - **Niveau :** Pas de difficulté particulière mais ne pas être sujet au vertige
 - **Type de parcours :** Boucle
 - **Accessible en transports en commun :** Oui
-- **Conditions météo :** 
+- **Conditions météo :** Couert, mer agitée
+- **Particiapants :** Brieuc, Alix, Lise
 
 
 🚗 **[🧭 Se rendre au départ](https://www.google.com/maps/dir/?api=1&destination=43.207657,5.519560)**
@@ -33,6 +34,9 @@ mermaid: true
 <iframe src="https://www.komoot.com/fr-fr/tour/2453543261/embed?share_token=aH2w1gKDSvsm2ni7cS521afNkcg2c6yJqX8UngjKIiWGxlP2R8&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
 
 ---
+
+> **Attention :** 
+{: .prompt-danger }
 
 ## 📌 Étapes du Parcours
 
@@ -62,7 +66,7 @@ Sortir de la calanque par un sentier raide qui ramène au plateau de Cadeiron pu
 
 ## 📝 Remarques personnelles
 
-Prendre un maillot pour se baigner au retour
+Prendre un maillot pour se baigner au retour. Attention: le premier rappel mène au bord de l'eau, si la mer est agité la corde peut se coincer, TOUJOURS prendre un couteau.
 
 ---
 
@@ -71,6 +75,7 @@ Prendre un maillot pour se baigner au retour
 - Baudrier
 - Casque
 - Corde: 40m
+- Couteau
 - Matériel de rappel (anneau de corde, reverso, longe)
 - Chaussures recommandées : Pas besoin de chausson mais des chaussures de sport fermées
 - Eau : 2L par personne
