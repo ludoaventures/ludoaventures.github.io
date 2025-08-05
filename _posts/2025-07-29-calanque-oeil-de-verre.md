@@ -3,7 +3,7 @@ title: Calanques de l'oeil de verre
 description: Randonnée jusqu'à la Calanque de l'oeil de verre par la corniche du CAF
 date: 2025-07-29 11:33:00 +0800
 categories: [Randonnée]
-tags: [calanques]
+tags: [Calanques]
 pin: true
 math: true
 mermaid: true
