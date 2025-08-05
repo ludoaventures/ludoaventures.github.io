@@ -2,7 +2,7 @@
 title: Baignade dans les gorges du Gardon
 description: Randonnée facile pour aller se baigner dans les gorges du Gardon
 date: 2025-07-27 11:33:00 +0800
-categories: [Randonnee, Balade]
+categories: [Randonnée, Balade]
 tags: [Gard]
 pin: true
 math: true
@@ -22,6 +22,7 @@ mermaid: true
 - **Type de parcours :** Boucle
 - **Accessible en transports en commun :** Non
 - **Conditions météo :** Grand soleil
+- **Participants :** Louis, Lorraine, Lise
 
 
 🚗 **[Se rendre au départ](https://www.google.com/maps/dir/?api=1&destination=43.953564,4.424996)**
@@ -33,6 +34,10 @@ mermaid: true
 <iframe src="https://www.komoot.com/fr-fr/tour/2453776418/embed?share_token=a2JOUmrWwv7oL8QVj2ek5V3oGj4oz15VMQg5T5JRmNelgMTVcz&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
 
 ---
+
+> **Attention :** Renseignez vous sur l'ouverture des massifs en fonction des prévisions de risque incendies sur: [Carte du risque incendie](https://www.risque-prevention-incendie.fr/30)
+{: .prompt-danger }
+
 
 ## 📌 Étapes du Parcours
 
