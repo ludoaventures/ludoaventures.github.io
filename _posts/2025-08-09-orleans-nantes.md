@@ -3,7 +3,7 @@ title: D'Orléans à Nantes par la Loire à vélo
 description: Weekend de bikepacking le long de la Loire à vélo pour aller voir les Nantais
 date: 2025-08-09 11:33:00 +0800
 categories: [Bikepacking, Bivouac]
-tags: [Loire à vélo]
+tags: [Loire a velo]
 pin: true
 math: true
 mermaid: true
