@@ -1,7 +1,7 @@
 ---
 title: Mont Saint Michel par la Véloscénie
 description: De Chartres au Mont Saint Michel par la Véloscénie
-date: 2025-08-20 11:33:00 +0800
+date: 2025-08-18 11:33:00 +0800
 categories: [Bikepacking, Bivouac]
 tags: [Véloscénie]
 pin: true
