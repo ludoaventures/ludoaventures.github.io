@@ -4,7 +4,7 @@ description: Randonnée jusqu'à la Calanque de l'oeil de verre par la corniche 
 date: 2025-07-29 11:33:00 +0800
 categories: [Randonnée]
 tags: [Calanques]
-pin: true
+pin: false
 math: true
 mermaid: true
 
