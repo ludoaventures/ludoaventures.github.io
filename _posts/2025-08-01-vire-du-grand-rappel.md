@@ -4,7 +4,7 @@ description: Rando rappel de la "Vire du Grand Rappel" en boucle depuis Cassis
 date: 2025-08-01 11:33:00 +0800
 categories: [Randonnée, Rappel, Rando-rappel]
 tags: [Calanques]
-pin: true
+pin: false
 math: true
 mermaid: true
 
