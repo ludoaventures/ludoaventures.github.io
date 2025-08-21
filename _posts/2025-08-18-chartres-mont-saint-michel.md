@@ -4,7 +4,7 @@ description: De Chartres au Mont Saint Michel par la Véloscénie
 date: 2025-08-18 11:33:00 +0800
 categories: [Bikepacking, Bivouac]
 tags: [Véloscénie]
-pin: true
+pin: false
 math: true
 mermaid: true
 ---
