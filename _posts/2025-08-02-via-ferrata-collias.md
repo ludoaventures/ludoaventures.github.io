@@ -4,7 +4,7 @@ description: Randonnée facile au bord du Gardon et Via Ferrata de Collias
 date: 2025-08-02 11:33:00 +0800
 categories: [Randonnée, Balade, Via Ferrata]
 tags: [Gard]
-pin: true
+pin: false
 math: true
 mermaid: true
 
