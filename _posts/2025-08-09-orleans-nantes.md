@@ -4,7 +4,7 @@ description: Weekend de bikepacking le long de la Loire à vélo pour aller voir
 date: 2025-08-09 11:33:00 +0800
 categories: [Bikepacking, Bivouac]
 tags: [Loire a velo]
-pin: true
+pin: false
 math: true
 mermaid: true
 
