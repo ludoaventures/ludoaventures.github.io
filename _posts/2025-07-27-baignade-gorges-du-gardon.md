@@ -4,7 +4,7 @@ description: Randonnée facile pour aller se baigner dans les gorges du Gardon
 date: 2025-07-27 11:33:00 +0800
 categories: [Randonnée, Balade]
 tags: [Gard]
-pin: true
+pin: false
 math: true
 mermaid: true
 
