@@ -1,9 +1,9 @@
 ---
-title: Pointe de la Chaurionde et tour de la Sambuy
-description: Pointe de la Chaurionde et tour de la Sambuy avec Hippo
+title: Arête Nord Ouest du Varo
+description: Course d'arête sur le massif de la Tournette avec Evita
 date: 2025-08-16 11:33:00 +0800
-categories: [Rando, Trail]
-tags: [Bauges]
+categories: [Course d'arête, Rando rappel]
+tags: [Tournette, Bornes, Annecy]
 pin: false
 math: true
 mermaid: true
