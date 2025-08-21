@@ -4,7 +4,7 @@ description: Pointe de la Chaurionde et tour de la Sambuy avec Hippo
 date: 2025-08-17 11:33:00 +0800
 categories: [Rando, Trail]
 tags: [Bauges]
-pin: true
+pin: false
 math: true
 mermaid: true
 
